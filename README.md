@@ -16,7 +16,7 @@ cd server
 npm install
 ```
 
-2. Install dependencies for the client:
+2. Install dependencies for the client (including React):
 
 ```bash
 cd ../client
